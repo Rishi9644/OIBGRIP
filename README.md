@@ -2,12 +2,14 @@
 
 ![Photo](https://media-exp1.licdn.com/dms/image/C4E1BAQGNv4Xh82Q7lg/company-background_10000/0/1642593898924?e=2147483647&v=beta&t=nlXjYG5jvf9u0FxKT_dRQ04gBpC06hhONmac8548KYk)
 
-### I have complete 2 tasks in Java development domain:
-- [Task 2 - Number Guessing Game](https://github.com/Prashant-ranjan-singh-123/OasisInfobyte_Java_Project/tree/main/Task%202)
-- [Task 3 - ATM Interface](https://github.com/Prashant-ranjan-singh-123/OasisInfobyte_Java_Project/tree/main/Task%203)
+### I have complete (Level 2) 3 tasks in Web development domain:
+- [Task 1 - Calculator](https://github.com/Rishi9644/OIBGRIP/tree/main/Task%201%20Calculator)
+- [Task 2 - A Tribute Page](https://github.com/Rishi9644/OIBGRIP/tree/main/Task%202%20Attribute)
+- [Task 3 - To-Do web app](https://github.com/Rishi9644/OIBGRIP/tree/main/Task%203%20TO%20DO%20WEB%20App)
 
 ### Offer Letter from OASIS INFOBYTE
-![Photo](https://media-exp1.licdn.com/dms/image/C4D1FAQGljfsNv-hBbg/feedshare-document-images_800/1/1659880277207?e=1660780800&v=beta&t=nlNVOTLd9zre-bjqM5kAfg2ilWpbqfZLyakdFyKu8w8)
+![Photo](https://www.linkedin.com/posts/rishi-nigam-77b1681bb_web-development-and-designing-internship-activity-6962271069617496064-OaML?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ## 🔗 Connect Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishi-nigam-77b1681bb
+)
