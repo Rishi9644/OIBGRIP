@@ -7,9 +7,7 @@
 - [Task 2 - A Tribute Page](https://github.com/Rishi9644/OIBGRIP/tree/main/Task%202%20Attribute)
 - [Task 3 - To-Do web app](https://github.com/Rishi9644/OIBGRIP/tree/main/Task%203%20TO%20DO%20WEB%20App)
 
-### Offer Letter from OASIS INFOBYTE
-![Photo](https://www.linkedin.com/posts/rishi-nigam-77b1681bb_web-development-and-designing-internship-activity-6962271069617496064-OaML?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ## 🔗 Connect Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishi-nigam-77b1681bb
-)
+/)
