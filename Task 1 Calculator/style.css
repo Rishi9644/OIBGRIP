@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+
+}
+body{
+  background: linear-gradient(to right, #9c27b0, #8ecdff);
+}
+h1{
+  color: white;
+  font-size: 62px;
+  text-align: center;
+  text-decoration: underline dotted;
+  text-decoration-color: #8ecdff;
+  margin: 30px;
+}
+.view{
+  display: inline-block;
+  margin: 4px;
+  width: 280px;
+  height: 48px;
+  font-size: 20px;
+  background-color: rgba(250, 300, 201,0.252);
+  border-radius: 15px;
+  
+}
+.equalbutton {
+  cursor: pointer;
+  display: inline-block;
+  margin: 3px;
+  width: 64px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  color: white;
+  height: 102px;
+  background-color:#f45a8a;
+  border-top: 2px solid yellow;
+  border-right: 2px solid yellow;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  outline: none;
+}
+.equalbutton:hover{
+  background-color:turquoise;
+
+}
+
+.button{
+  cursor: pointer;
+  display: inline-block;
+  margin: 3px;
+  width: 64px;
+  height: 48px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 12px;
+  color: white;
+  text-shadow: -1px -1px 0px #44006f;
+  background-color:rgb(252, 115, 110);
+  border-top: 2px solid #FFF;
+  border-right: 2px solid #FFF;
+  border-bottom: 2px solid #AF5700;
+  border-left: 2px solid #AE5700;
+  outline: none;
+}
+.button:hover{
+  background-color:transparent;
+
+}
+
+.clearButton{
+  cursor: pointer;
+  border-radius: 12px;
+  color: white;
+  margin: 3px;
+  width: 64px;
+  height: 48px;
+  text-shadow: -1px -1px 0px #44006f;
+  background-color:rgb(255, 99, 71);
+  border-top: 2px solid yellow;
+  border-right: 2px solid yellow;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+
+}
+.box{
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  background-color: blueviolet;
+  width: fit-content;
+  margin-left: auto;  
+  margin-right: auto; 
+  
+}
+table 
+{
+  margin-left: auto;  
+  margin-right: auto;  
+  text-align: center;
+  margin-top: 20px;
+}
+.view{
+  background-color: white;
+  padding-left: 10px;
+}
+footer{
+  text-align: center;
+
+  
+}
+footer p{
+  font-family: cursive;
+  font-size: larger;
+  font-weight: bold;
+}

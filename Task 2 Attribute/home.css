@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to right, rgb(127, 127, 213), rgb(134, 168, 231), rgb(145, 234, 228));
+    font-family: sans-serif;
+    border-radius: 30px;
+    margin: 20px;
+    margin-bottom: 10px;
+
+
+}
+
+.main {
+    margin: 0;
+    padding: 10px;
+    ;
+    padding-bottom: 15px;
+    /* padding: 15px; */
+    border-radius: 5px;
+    background: #eeeeee;
+    text-align: center;
+    display: block;
+
+
+}
+
+#head {
+    border-radius: 40px;
+    margin-top: 0;
+    width: 70%;
+    /* background-color: black; */
+    object-position: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tit {
+    /* font-family: system-ui; */
+    font: large/50px Courie;
+    font-weight: bolder;
+    box-sizing: border-box;
+    font-size: 45px;
+    text-decoration: underline blueviolet;
+}
+
+p {
+    font-size: large;
+}
+
+.first {
+    font-family: serif;
+    font-weight: bold;
+}
+
+.second {
+    font-family: cursive;
+}
+
+@media(max-width:700px) {
+    .tit {
+        font-size: 30px;
+    }
+
+
+}
+
+.image {
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    width: 60%;
+    position: relative;
+    /* background-color: black; */
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    background-color: wheat;
+
+
+}
+
+img {
+    width: 70%;
+    border-radius: 25px;
+    padding: 30px;
+    padding-bottom: 10px;
+
+}
+
+.intro {
+    font-family: Courie;
+    padding-bottom: 10px;
+    font-weight: bold;
+    word-spacing: 2px;
+    color: black;
+
+}
+
+.content {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #eeeeee;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+
+.content p {
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: justify;
+
+
+}
+
+.h11 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    text-decoration: underline gray;
+    font-family: system-ui;
+    font-weight: bold;
+
+}
+
+.tho {
+    text-align: center;
+    width: 30%;
+    height: auto;
+    margin-left: 50%;
+    margin-right: auto;
+    background-color: #eeeeee;
+    padding: 15px;
+    border-radius: 0 0 35px 35px;
+    font-family: cursive;
+
+}
+
+.thought {
+    text-align: justify;
+}
+
+.nme {
+    text-align: right;
+    padding-top: 5px;
+}
+
+@media(max-width:700px) {
+    .tho {
+        width: auto;
+        margin: auto;
+
+    }
+}
+
+footer {
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    font-family: "Cardo";
+    font-weight: 700;
+    /* padding: 15px; */
+    padding-top: 10px;
+    padding-bottom: 15px;
+
+}
+.foot{
+    text-align: center; 
+    
+}
+.foot p{
+    font-family: cursive;
+    font-size: larger;
+    font-weight: bold;
+  }
+  
